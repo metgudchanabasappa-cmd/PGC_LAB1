@@ -505,4 +505,4 @@ The results highlight that as the degree of parallelism increases and hardware i
 | **CUDA Block / Grid** | $16 \times 16$ threads / $250 \times 250$ blocks |
 | **Verification** | `C[0][0] = 4000.00` |
 
----
+
