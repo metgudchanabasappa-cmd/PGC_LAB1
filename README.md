@@ -1,6 +1,4 @@
-# Analysing the performance of sequential, openMP, MPI, CUDA by comparing execution time and speed up for matrix multiplication
-
-## Experiment 1 — Parallel Computing
+# Experiment 1 - Analysing the performance of sequential, openMP, MPI, CUDA by comparing execution time and speed up for matrix multiplication
 
 This experiment implements the same matrix multiplication problem using four different computing models:
 
