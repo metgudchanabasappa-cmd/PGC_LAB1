@@ -1,4 +1,4 @@
-# Parallel Matrix Multiplication using Sequential, OpenMP, MPI and CUDA
+# Analysing the permormance of sequential, openMP, MPI, CUDA by comparing execution time and speed up for matrix multiplication
 
 ## Experiment 1 — Parallel Computing
 
